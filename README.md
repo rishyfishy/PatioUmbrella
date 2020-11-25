@@ -1,4 +1,4 @@
-# PatioUmbrella
+# Patio Umbrella
 For my MIE301 Kinematics course, my team created a novel design to reduce the force applied by the user to deploy the umbrella. I created a MATLAB simulation to:
  - Animate the motion of the mechanism for the three controls
     - Canopy Angle
